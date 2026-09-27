@@ -1,0 +1,9 @@
+{
+  "name": "Grammaire en dialogues — B1",
+  "short_name": "GED B1",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#4f8a8b",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
